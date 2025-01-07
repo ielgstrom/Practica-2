@@ -9,3 +9,5 @@ Aquest repositori és comprès d'aquests arxius:
 3.  ipc_data.csv: arxiu complementari de l'IPC de països per complementar les dades originals.
 4.  smi_data.csv: arxiu complementari de l'SMI de països per complementar les dades originals.
 5.  final_data.csv: arxiu CSV amb les dades ajustades per anàlisis.
+6.  Codi.ipynb: Codi R amb Google Colaboraty amb el codi i les traces de l'execucció del mateix.
+7.  codi_final.R: Codi R preparat per ser executat.
